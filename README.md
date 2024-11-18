@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a PhD student from Shanghai Jiao Tong University.
+- 🔭 I’m currently working on embodied AI.
